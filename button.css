@@ -5,5 +5,5 @@
     height: 40px;
     cursor: pointer;
     /* Basically, you need to set two different background-image urls because Google feels so pretty and indispensable. */
-    background-image: url('./images/download.png'), url('chrome-extension://__MSG_@@extension_id__/images/download.png');
+    background-image: url('./images/download_arrow.png'), url('chrome-extension://__MSG_@@extension_id__/images/download_arrow.png');
 }
